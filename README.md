@@ -14,10 +14,7 @@ A few key aspects to observe in the demo video:
 - The **background color** of the next layer is **inherited** from the node’s color where the zoom-in originated 🎨 (and vice versa for zoom-out).
 - This experience is **inspired by Google Maps**, where *countries → cities → streets* are rendered across multiple layers with smooth transitions and intuitive zooming behavior.
 
-<video width="100%" autoplay muted loop>
-  <source src="assets/multi-layered-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/98e6da7b-bc80-4539-b79f-86a66a3050e6
 
 ---
 
